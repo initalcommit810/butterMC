@@ -1,3 +1,3 @@
-# smooth minecraft
+# mc butter
 
-smooth minecraft is a modpack that helps make the game very fast and adds QOL features. If there is a mod you want added, make an issue and put its name and a link to it (preferably Curse or Modrinth) there.
+smooth minecraft is a modpack that pulls out all the stops to make the game run well. If there is a mod you want added, make an issue and put its name and a link to it (preferably Curse or Modrinth) there.
